@@ -2,3 +2,5 @@ dataset project iris
 https://github.com/BhaveshBhagat/Decision_Tree_classifier
 instructions
 https://4geeks.com/syllabus/spain-ds-pt-3/read/deploy-model-using-streamlit-and-render
+pip install -r requirements.txt
+
