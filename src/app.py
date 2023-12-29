@@ -12,6 +12,7 @@ class_dict = {
     "2": "Iris virginica"
 }
 
+
 st.title("Iris - Model prediction")
 
 val1 = st.slider("Petal width", min_value=0.0, max_value=4.0, step=0.1)
